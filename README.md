@@ -1,4 +1,4 @@
-# q5-vuex
+# Todo List with Vuex
 
 ## Project setup
 ```
